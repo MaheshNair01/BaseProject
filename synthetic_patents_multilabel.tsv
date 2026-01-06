@@ -1,0 +1,116 @@
+patent_id	claim_text	cpc_sequence	cpc_class	cpc_subclass	cpc_group	cpc_type
+SYNTH1001	A device implementing secure protocols for genetic editing with dynamic resource allocation.	1	C07	D	20/40	inventive
+SYNTH1002	A device implementing secure protocols for data processing with dynamic resource allocation.	1	F24	F	9/32	inventive
+SYNTH1002	A device implementing secure protocols for data processing with dynamic resource allocation.	2	H04	L	16/29	additional
+SYNTH1003	A method for optimizing optical systems using adaptive algorithms and predictive models.	1	C07	C	35/00	inventive
+SYNTH1003	A method for optimizing optical systems using adaptive algorithms and predictive models.	2	G06	Q	9/32	additional
+SYNTH1003	A method for optimizing optical systems using adaptive algorithms and predictive models.	3	F24	F	9/32	additional
+SYNTH1004	A system comprising components configured to enhance composite manufacturing through real-time feedback.	1	B29	C	20/40	inventive
+SYNTH1004	A system comprising components configured to enhance composite manufacturing through real-time feedback.	2	B60	W	11/00	additional
+SYNTH1004	A system comprising components configured to enhance composite manufacturing through real-time feedback.	3	C07	D	9/32	additional
+SYNTH1005	A method for optimizing network security using adaptive algorithms and predictive models.	1	G06	Q	36/24	inventive
+SYNTH1006	A system comprising components configured to enhance energy optimization through real-time feedback.	1	A61	K	9/08	inventive
+SYNTH1006	A system comprising components configured to enhance energy optimization through real-time feedback.	2	C12	N	10/0562	additional
+SYNTH1007	A process for improving data processing performance using distributed architectures and AI-based tuning.	1	C07	D	30/18	inventive
+SYNTH1007	A process for improving data processing performance using distributed architectures and AI-based tuning.	2	G02	B	9/32	additional
+SYNTH1007	A process for improving data processing performance using distributed architectures and AI-based tuning.	3	H01	L	11/00	additional
+SYNTH1008	A method for optimizing genetic editing using adaptive algorithms and predictive models.	1	H04	W	11/00	inventive
+SYNTH1008	A method for optimizing genetic editing using adaptive algorithms and predictive models.	2	G02	B	10/0562	additional
+SYNTH1008	A method for optimizing genetic editing using adaptive algorithms and predictive models.	3	B60	W	16/29	additional
+SYNTH1009	A method for optimizing chemical synthesis using adaptive algorithms and predictive models.	1	F24	F	15/113	inventive
+SYNTH1009	A method for optimizing chemical synthesis using adaptive algorithms and predictive models.	2	G06	Q	36/24	additional
+SYNTH1010	A system comprising components configured to enhance chemical synthesis through real-time feedback.	1	G02	B	20/40	inventive
+SYNTH1010	A system comprising components configured to enhance chemical synthesis through real-time feedback.	2	G06	F	11/00	additional
+SYNTH1011	A system comprising components configured to enhance optical systems through real-time feedback.	1	C12	N	20/40	inventive
+SYNTH1011	A system comprising components configured to enhance optical systems through real-time feedback.	2	A61	K	30/18	additional
+SYNTH1012	A device implementing secure protocols for network security with dynamic resource allocation.	1	B60	W	5/728	inventive
+SYNTH1012	A device implementing secure protocols for network security with dynamic resource allocation.	2	F24	F	20/40	additional
+SYNTH1013	A method for optimizing genetic editing using adaptive algorithms and predictive models.	1	G06	Q	213/64	inventive
+SYNTH1014	A device implementing secure protocols for composite manufacturing with dynamic resource allocation.	1	H04	L	5/728	inventive
+SYNTH1014	A device implementing secure protocols for composite manufacturing with dynamic resource allocation.	2	F24	F	35/00	additional
+SYNTH1015	A method for optimizing medical imaging using adaptive algorithms and predictive models.	1	F24	F	213/64	inventive
+SYNTH1015	A method for optimizing medical imaging using adaptive algorithms and predictive models.	2	H01	L	213/64	additional
+SYNTH1015	A method for optimizing medical imaging using adaptive algorithms and predictive models.	3	C12	N	11/00	additional
+SYNTH1016	A system comprising components configured to enhance energy optimization through real-time feedback.	1	G02	B	36/24	inventive
+SYNTH1016	A system comprising components configured to enhance energy optimization through real-time feedback.	2	C07	C	15/113	additional
+SYNTH1017	A process for improving energy optimization performance using distributed architectures and AI-based tuning.	1	F24	F	11/00	inventive
+SYNTH1018	A method for optimizing optical systems using adaptive algorithms and predictive models.	1	F24	F	4/62	inventive
+SYNTH1019	A method for optimizing medical imaging using adaptive algorithms and predictive models.	1	H04	W	213/64	inventive
+SYNTH1019	A method for optimizing medical imaging using adaptive algorithms and predictive models.	2	A61	B	35/00	additional
+SYNTH1019	A method for optimizing medical imaging using adaptive algorithms and predictive models.	3	C12	N	9/08	additional
+SYNTH1020	A system comprising components configured to enhance composite manufacturing through real-time feedback.	1	C07	C	16/29	inventive
+SYNTH1021	A method for optimizing chemical synthesis using adaptive algorithms and predictive models.	1	G06	Q	36/24	inventive
+SYNTH1022	A method for optimizing battery efficiency using adaptive algorithms and predictive models.	1	G02	B	4/62	inventive
+SYNTH1022	A method for optimizing battery efficiency using adaptive algorithms and predictive models.	2	H01	L	9/08	additional
+SYNTH1022	A method for optimizing battery efficiency using adaptive algorithms and predictive models.	3	C07	D	20/40	additional
+SYNTH1023	A method for optimizing medical imaging using adaptive algorithms and predictive models.	1	A61	B	9/32	inventive
+SYNTH1023	A method for optimizing medical imaging using adaptive algorithms and predictive models.	2	C07	D	10/0562	additional
+SYNTH1023	A method for optimizing medical imaging using adaptive algorithms and predictive models.	3	C12	N	9/08	additional
+SYNTH1024	A process for improving data processing performance using distributed architectures and AI-based tuning.	1	B29	C	30/18	inventive
+SYNTH1024	A process for improving data processing performance using distributed architectures and AI-based tuning.	2	F24	F	10/0562	additional
+SYNTH1024	A process for improving data processing performance using distributed architectures and AI-based tuning.	3	G06	Q	30/18	additional
+SYNTH1025	A method for optimizing data processing using adaptive algorithms and predictive models.	1	A61	K	9/32	inventive
+SYNTH1025	A method for optimizing data processing using adaptive algorithms and predictive models.	2	G06	F	9/08	additional
+SYNTH1025	A method for optimizing data processing using adaptive algorithms and predictive models.	3	B29	C	10/0562	additional
+SYNTH1026	A system comprising components configured to enhance genetic editing through real-time feedback.	1	H04	L	9/08	inventive
+SYNTH1027	A device implementing secure protocols for optical systems with dynamic resource allocation.	1	C12	N	4/62	inventive
+SYNTH1028	A method for optimizing energy optimization using adaptive algorithms and predictive models.	1	F24	F	9/08	inventive
+SYNTH1028	A method for optimizing energy optimization using adaptive algorithms and predictive models.	2	H01	L	20/40	additional
+SYNTH1028	A method for optimizing energy optimization using adaptive algorithms and predictive models.	3	A61	B	35/00	additional
+SYNTH1029	A device implementing secure protocols for composite manufacturing with dynamic resource allocation.	1	C12	N	11/00	inventive
+SYNTH1029	A device implementing secure protocols for composite manufacturing with dynamic resource allocation.	2	G06	Q	213/64	additional
+SYNTH1029	A device implementing secure protocols for composite manufacturing with dynamic resource allocation.	3	B60	W	9/08	additional
+SYNTH1030	A process for improving genetic editing performance using distributed architectures and AI-based tuning.	1	H04	W	3/14	inventive
+SYNTH1030	A process for improving genetic editing performance using distributed architectures and AI-based tuning.	2	C07	C	3/14	additional
+SYNTH1031	A method for optimizing genetic editing using adaptive algorithms and predictive models.	1	B29	C	16/29	inventive
+SYNTH1031	A method for optimizing genetic editing using adaptive algorithms and predictive models.	2	H01	M	3/14	additional
+SYNTH1031	A method for optimizing genetic editing using adaptive algorithms and predictive models.	3	C12	N	20/40	additional
+SYNTH1032	A method for optimizing network security using adaptive algorithms and predictive models.	1	H04	L	15/113	inventive
+SYNTH1032	A method for optimizing network security using adaptive algorithms and predictive models.	2	B29	C	9/32	additional
+SYNTH1032	A method for optimizing network security using adaptive algorithms and predictive models.	3	H01	M	35/00	additional
+SYNTH1033	A process for improving chemical synthesis performance using distributed architectures and AI-based tuning.	1	G06	F	16/29	inventive
+SYNTH1033	A process for improving chemical synthesis performance using distributed architectures and AI-based tuning.	2	F24	F	36/24	additional
+SYNTH1034	A method for optimizing battery efficiency using adaptive algorithms and predictive models.	1	C12	N	16/29	inventive
+SYNTH1035	A process for improving medical imaging performance using distributed architectures and AI-based tuning.	1	H04	W	36/24	inventive
+SYNTH1035	A process for improving medical imaging performance using distributed architectures and AI-based tuning.	2	F24	F	9/08	additional
+SYNTH1036	A device implementing secure protocols for composite manufacturing with dynamic resource allocation.	1	G02	B	213/64	inventive
+SYNTH1036	A device implementing secure protocols for composite manufacturing with dynamic resource allocation.	2	C07	D	213/64	additional
+SYNTH1037	A system comprising components configured to enhance optical systems through real-time feedback.	1	G02	B	11/00	inventive
+SYNTH1038	A process for improving network security performance using distributed architectures and AI-based tuning.	1	H04	L	9/32	inventive
+SYNTH1039	A process for improving genetic editing performance using distributed architectures and AI-based tuning.	1	B29	C	36/24	inventive
+SYNTH1040	A process for improving energy optimization performance using distributed architectures and AI-based tuning.	1	F24	F	5/728	inventive
+SYNTH1041	A process for improving battery efficiency performance using distributed architectures and AI-based tuning.	1	C12	N	9/32	inventive
+SYNTH1041	A process for improving battery efficiency performance using distributed architectures and AI-based tuning.	2	H04	L	10/0562	additional
+SYNTH1041	A process for improving battery efficiency performance using distributed architectures and AI-based tuning.	3	C07	C	5/728	additional
+SYNTH1042	A method for optimizing vehicle control using adaptive algorithms and predictive models.	1	H01	L	35/00	inventive
+SYNTH1043	A system comprising components configured to enhance battery efficiency through real-time feedback.	1	A61	B	4/62	inventive
+SYNTH1043	A system comprising components configured to enhance battery efficiency through real-time feedback.	2	F24	F	9/32	additional
+SYNTH1043	A system comprising components configured to enhance battery efficiency through real-time feedback.	3	G06	Q	36/24	additional
+SYNTH1044	A device implementing secure protocols for energy optimization with dynamic resource allocation.	1	H04	W	30/18	inventive
+SYNTH1045	A method for optimizing genetic editing using adaptive algorithms and predictive models.	1	G06	F	5/728	inventive
+SYNTH1045	A method for optimizing genetic editing using adaptive algorithms and predictive models.	2	B29	C	15/113	additional
+SYNTH1045	A method for optimizing genetic editing using adaptive algorithms and predictive models.	3	H01	M	11/00	additional
+SYNTH1046	A device implementing secure protocols for chemical synthesis with dynamic resource allocation.	1	A61	B	20/40	inventive
+SYNTH1047	A method for optimizing optical systems using adaptive algorithms and predictive models.	1	H01	L	9/32	inventive
+SYNTH1048	A system comprising components configured to enhance optical systems through real-time feedback.	1	A61	K	5/728	inventive
+SYNTH1048	A system comprising components configured to enhance optical systems through real-time feedback.	2	B60	W	10/0562	additional
+SYNTH1048	A system comprising components configured to enhance optical systems through real-time feedback.	3	H01	M	30/18	additional
+SYNTH1049	A device implementing secure protocols for optical systems with dynamic resource allocation.	1	G02	B	9/08	inventive
+SYNTH1050	A method for optimizing data processing using adaptive algorithms and predictive models.	1	B60	W	213/64	inventive
+SYNTH1051	A device implementing secure protocols for chemical synthesis with dynamic resource allocation.	1	G06	F	10/0562	inventive
+SYNTH1051	A device implementing secure protocols for chemical synthesis with dynamic resource allocation.	2	F24	F	4/62	additional
+SYNTH1051	A device implementing secure protocols for chemical synthesis with dynamic resource allocation.	3	H01	L	5/728	additional
+SYNTH1052	A process for improving vehicle control performance using distributed architectures and AI-based tuning.	1	G02	B	9/32	inventive
+SYNTH1052	A process for improving vehicle control performance using distributed architectures and AI-based tuning.	2	C07	D	11/00	additional
+SYNTH1052	A process for improving vehicle control performance using distributed architectures and AI-based tuning.	3	B29	C	30/18	additional
+SYNTH1053	A process for improving battery efficiency performance using distributed architectures and AI-based tuning.	1	F24	F	5/728	inventive
+SYNTH1054	A process for improving energy optimization performance using distributed architectures and AI-based tuning.	1	H01	L	11/00	inventive
+SYNTH1055	A device implementing secure protocols for medical imaging with dynamic resource allocation.	1	A61	B	15/113	inventive
+SYNTH1056	A process for improving energy optimization performance using distributed architectures and AI-based tuning.	1	F24	F	9/32	inventive
+SYNTH1057	A process for improving energy optimization performance using distributed architectures and AI-based tuning.	1	B29	C	30/18	inventive
+SYNTH1057	A process for improving energy optimization performance using distributed architectures and AI-based tuning.	2	F24	F	5/728	additional
+SYNTH1057	A process for improving energy optimization performance using distributed architectures and AI-based tuning.	3	H01	L	36/24	additional
+SYNTH1058	A method for optimizing network security using adaptive algorithms and predictive models.	1	C07	D	16/29	inventive
+SYNTH1059	A method for optimizing composite manufacturing using adaptive algorithms and predictive models.	1	B29	C	15/113	inventive
+SYNTH1060	A system comprising components configured to enhance genetic editing through real-time feedback.	1	H04	W	9/32	inventive
+SYNTH1060	A system comprising components configured to enhance genetic editing through real-time feedback.	2	H01	M	213/64	additional
